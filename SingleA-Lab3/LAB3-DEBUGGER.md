@@ -6,11 +6,11 @@
 
 **1. Original Code:**
 
-![Erro01](/error1.png)
+![Erro01](./error1.png)
 
 **2. Fix: Calculate the average using the ***line_count*** variable instead**
 
-![Fix01](/fix1.png)
+![Fix01](./fix1.png)
 
 ---
 
