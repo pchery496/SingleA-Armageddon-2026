@@ -6,11 +6,11 @@
 
 **1. Original Code:**
 
-![Erro01](error1.png)
+![Erro01](./image/error1.PNG)
 
 **2. Fix: Calculate the average using the ***line_count*** variable instead**
 
-![Fix01](fix1.png)
+![Fix01](./image/fix1.PNG)
 
 ---
 
@@ -18,11 +18,11 @@
 
 **1. Original Code:**
 
-![Erro02](error2.png)
+![Erro02](./image/error2.PNG)
 
 **2. Fix: Apply `}` at end of the function**
 
-![Fix02](fix2.png)
+![Fix02](./image/fix2.PNG)
 
 ---
 
@@ -30,11 +30,11 @@
 
 **1. Original Code:**
 
-![Erro03](error3.png)
+![Erro03](./image/error3.PNG)
 
 **2. Fix: Change operator symbal to `-` from `+`**
 
-![Fix03](fix3.png)
+![Fix03](./image/fix3.PNG)
 
 ---
 
@@ -42,11 +42,11 @@
 
 **1. Original Code:**
 
-![Erro04](error4.png)
+![Erro04](./image/error4.PNG)
 
 **2. Fix: Added missing `; then` expression in the conditional statement block**
 
-![Fix04](fix4.png)
+![Fix04](./image/fix4.PNG)
 
 ---
 ---
@@ -55,4 +55,4 @@
 
 Below is the output result of the corrected Shell 
 
-![CodeResult](code_output.png)
+![CodeResult](./image/code_output.PNG)
